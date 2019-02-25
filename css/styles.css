@@ -1,0 +1,52 @@
+/*
+Dark Slate Gray: #28536B Dark Blue
+Rosy Brown: #C2948A Dark Pink
+Moonstone Blue: #7EA8BE Light Blue
+Isabelline: #F6F0ED White
+Khaki: #BBB193 Brown
+*/
+
+/* Global Styles 
+------------------------*/
+body {
+ 
+}
+
+a {
+  color: #EF233C;
+}
+a:hover {
+  text-decoration: none;
+}
+
+/* Header 
+------------------------*/
+header{
+  background: #28536b;
+  color: #F6F0ED;
+}
+
+header h1, header h2 {
+  color: #F6F0ED;
+}
+
+/* Footer 
+-------------------------*/
+footer{
+  background: #28536b;
+  color: #F6F0ED;
+}
+
+
+/* Work Experience
+-------------------------*/
+.work {
+background: #c2948a; 
+}
+
+
+/* Education
+-------------------------*/
+.education{
+background: #bbb193;
+}
