@@ -38,6 +38,11 @@ a:hover {
   max-width: 950px;
   margin: 0 auto;
   padding: 40px;
+  overflow: auto;
+}
+
+.bio {
+  padding: 10px;
 }
 
 /* Header 
@@ -48,6 +53,14 @@ header{
 
 header h1, header h2 {
   color: #F6F0ED;
+  margin: 0;
+}
+
+.profile-img {
+  width: 300px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 30px;
 }
 
 /* Footer 
