@@ -9,7 +9,20 @@ Khaki: #BBB193 Brown
 /* Global Styles 
 ------------------------*/
 body {
- 
+  font-family: 'Lato', sans-serif;
+}
+
+h1, h2 {
+  font-family: 'Laila', serif;
+
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h1 {
+  font-size: 40px;
 }
 
 a {
@@ -23,7 +36,6 @@ a:hover {
 ------------------------*/
 header{
   background: #28536b;
-  color: #F6F0ED;
 }
 
 header h1, header h2 {
