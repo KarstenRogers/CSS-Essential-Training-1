@@ -41,6 +41,17 @@ a:hover {
   overflow: auto;
 }
 
+.col-narrow {
+  width: 30%;
+  float: left;
+}
+
+.col-wide {
+  width: 70%;
+  float: left;
+  padding-left: 20px;
+}
+
 .bio {
   padding: 10px;
 }
